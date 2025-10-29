@@ -1,0 +1,18 @@
+div{
+    color: rgb(15, 15, 122);
+}
+.bed-room{
+    background-color: lightblue;
+}
+#kitchen{
+    color: orange;
+}
+div>h1{
+    background-color: lightgray;
+}
+.living-room+div{
+    background-color: green;
+}
+#kitchen~div{
+    background-color: lightpink;
+}
